@@ -1,1 +1,0 @@
-apikey = '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'
